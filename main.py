@@ -1,5 +1,6 @@
 # --------------------------------------------
 # Python Program: Add Names and Numbers to Excel
+# Made by Kasra Tookallo with an assistance of AI (problem_solving section).
 # --------------------------------------------
 # Description:
 # This program repeatedly asks the user to enter a name and a number.
